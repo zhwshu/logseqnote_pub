@@ -1,0 +1,2 @@
+# logseqnote_pub
+note
