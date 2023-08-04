@@ -42,14 +42,14 @@
 {:ls-type :whiteboard-page
 :logseq.tldraw.page 
 {:id "64cd0b27-9615-4aa4-9a89-6379dfd3511c"
-:name "64cd0b27-9615-4aa4-9a89-6379dfd3511c"
+:name "央行资产负债表"
 :bindings 
 {}
 :nonce 1
 :assets []
 :shapes-index ()}}
-:block/updated-at 1691160757455
+:block/updated-at 1691161395304
 :block/created-at 1691159335633
 :block/type "whiteboard"
-:block/name "64cd0b27-9615-4aa4-9a89-6379dfd3511c"
-:block/original-name "64cd0b27-9615-4aa4-9a89-6379dfd3511c"})}
+:block/name "央行资产负债表"
+:block/original-name "央行资产负债表"})}
