@@ -35,7 +35,65 @@
 {:block/uuid #uuid "64cd0b7a-a15c-490e-86ac-2aaa2c5d3b3a"}
 :block/parent 
 {:block/uuid #uuid "64cd0b27-9615-4aa4-9a89-6379dfd3511c"}
-:block/uuid #uuid "64cd1078-88fe-491c-9a26-5b1a9e215eb3"})
+:block/uuid #uuid "64cd1078-88fe-491c-9a26-5b1a9e215eb3"} 
+{:block/content "国外资产\n对政府债权"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64cd1078-88fe-491c-9a26-5b1a9e215eb3"}
+:block/parent 
+{:block/uuid #uuid "64cd0b27-9615-4aa4-9a89-6379dfd3511c"}
+:block/properties 
+{}
+:block/uuid #uuid "64cd1369-de4f-40f0-8642-5e017c625253"} 
+{:block/created-at 1691164105402
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "64cd1369-de4f-40f0-8642-5e017c625253"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [106.66668701171875 65]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "27425f50-32d8-11ee-adf7-0f9cfaad1016"
+:noFill false
+:point [236.16668701171875 196.83334350585938]
+:parentId "64cd0b27-9615-4aa4-9a89-6379dfd3511c"
+:collapsedHeight 0
+:nonce 1691161444846}}
+:block/updated-at 1691164105402} 
+{:block/content "国外债权"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64cd1369-de4f-40f0-8642-5e017c625253"}
+:block/parent 
+{:block/uuid #uuid "64cd0b27-9615-4aa4-9a89-6379dfd3511c"}
+:block/uuid #uuid "64cd1d76-1617-46f9-a64c-fa2c60a2394f"} 
+{:block/content "国外债权"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64cd1d76-1617-46f9-a64c-fa2c60a2394f"}
+:block/parent 
+{:block/uuid #uuid "64cd0b27-9615-4aa4-9a89-6379dfd3511c"}
+:block/uuid #uuid "64cd1d9c-b0f6-48bb-8e4f-3dcbc160b10c"} 
+{:block/content "国外债权"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64cd1d9c-b0f6-48bb-8e4f-3dcbc160b10c"}
+:block/parent 
+{:block/uuid #uuid "64cd0b27-9615-4aa4-9a89-6379dfd3511c"}
+:block/uuid #uuid "64cd1dba-a913-4f7f-af8a-bc55b28f4081"})
 :pages (
 {:block/uuid #uuid "64cd0b27-9615-4aa4-9a89-6379dfd3511c"
 :block/properties 
@@ -47,8 +105,8 @@
 {}
 :nonce 1
 :assets []
-:shapes-index ()}}
-:block/updated-at 1691161395304
+:shapes-index ("27425f50-32d8-11ee-adf7-0f9cfaad1016")}}
+:block/updated-at 1691164105402
 :block/created-at 1691159335633
 :block/type "whiteboard"
 :block/name "央行资产负债表"
