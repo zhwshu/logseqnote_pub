@@ -28,7 +28,14 @@
 {:block/uuid #uuid "64cd0b7a-f124-4b49-8176-c7baf119a58d"}
 :block/parent 
 {:block/uuid #uuid "64cd0b27-9615-4aa4-9a89-6379dfd3511c"}
-:block/uuid #uuid "64cd0b7a-a15c-490e-86ac-2aaa2c5d3b3a"})
+:block/uuid #uuid "64cd0b7a-a15c-490e-86ac-2aaa2c5d3b3a"} 
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64cd0b7a-a15c-490e-86ac-2aaa2c5d3b3a"}
+:block/parent 
+{:block/uuid #uuid "64cd0b27-9615-4aa4-9a89-6379dfd3511c"}
+:block/uuid #uuid "64cd1078-88fe-491c-9a26-5b1a9e215eb3"})
 :pages (
 {:block/uuid #uuid "64cd0b27-9615-4aa4-9a89-6379dfd3511c"
 :block/properties 
@@ -41,7 +48,7 @@
 :nonce 1
 :assets []
 :shapes-index ()}}
-:block/updated-at 1691159438764
+:block/updated-at 1691160757455
 :block/created-at 1691159335633
 :block/type "whiteboard"
 :block/name "64cd0b27-9615-4aa4-9a89-6379dfd3511c"
