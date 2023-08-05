@@ -1,5 +1,5 @@
 {:blocks (
-{:block/created-at 1691251749504
+{:block/created-at 1691251929242
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -26,9 +26,9 @@
 :point [363.5 251.5]
 :parentId "64ce6f8f-f538-4bff-8609-1536aed6e7af"
 :collapsedHeight 0
-:nonce 1691250872768}}
-:block/updated-at 1691251749504} 
-{:block/created-at 1691251749504
+:nonce 1691250872794}}
+:block/updated-at 1691251929242} 
+{:block/created-at 1691251929242
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -54,8 +54,8 @@
 :point [992.4117175292969 794.9117175292969]
 :parentId "64ce6f8f-f538-4bff-8609-1536aed6e7af"
 :collapsedHeight 93.00008296966553
-:nonce 1691251093377}}
-:block/updated-at 1691251749504} 
+:nonce 1691251093379}}
+:block/updated-at 1691251929242} 
 {:block/content "实体经济"
 :block/format :markdown
 :block/left 
@@ -63,19 +63,19 @@
 :block/parent 
 {:block/uuid #uuid "64ce6f8f-f538-4bff-8609-1536aed6e7af"}
 :block/uuid #uuid "64ce721a-53bd-45cb-8283-673048fc974f"} 
-{:block/created-at 1691251749504
+{:block/created-at 1691251929242
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:blockType "P"
-:stroke ""
+:stroke "green"
 :collapsed false
 :borderRadius 8
 :index 2
 :scale [1 1]
 :pageId "实体经济"
 :scaleLevel "md"
-:fill ""
+:fill "green"
 :compact false
 :isAutoResizing true
 :type "logseq-portal"
@@ -88,21 +88,21 @@
 :point [2151.0966992187496 1326.7267175292964]
 :parentId "64ce6f8f-f538-4bff-8609-1536aed6e7af"
 :collapsedHeight 63.99999999999999
-:nonce 1691251359416}}
-:block/updated-at 1691251749504} 
-{:block/created-at 1691251749504
+:nonce 1691251359419}}
+:block/updated-at 1691251929242} 
+{:block/created-at 1691251929242
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:blockType "P"
-:stroke ""
+:stroke "yellow"
 :collapsed false
 :borderRadius 8
 :index 3
 :scale [1 1]
 :pageId "政府"
 :scaleLevel "md"
-:fill ""
+:fill "yellow"
 :compact false
 :isAutoResizing true
 :type "logseq-portal"
@@ -115,21 +115,21 @@
 :point [2204.2633984374997 805.5600579833983]
 :parentId "64ce6f8f-f538-4bff-8609-1536aed6e7af"
 :collapsedHeight 0
-:nonce 1691251377074}}
-:block/updated-at 1691251749504} 
-{:block/created-at 1691251749504
+:nonce 1691251377077}}
+:block/updated-at 1691251929242} 
+{:block/created-at 1691251929242
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:blockType "P"
-:stroke ""
+:stroke "gray"
 :collapsed false
 :borderRadius 8
 :index 4
 :scale [1 1]
 :pageId "资本市场"
 :scaleLevel "md"
-:fill ""
+:fill "gray"
 :compact false
 :isAutoResizing true
 :type "logseq-portal"
@@ -142,9 +142,9 @@
 :point [2086.584999999999 325.60503814697245]
 :parentId "64ce6f8f-f538-4bff-8609-1536aed6e7af"
 :collapsedHeight 0
-:nonce 1691251388314}}
-:block/updated-at 1691251749504} 
-{:block/created-at 1691251749503
+:nonce 1691251388317}}
+:block/updated-at 1691251929242} 
+{:block/created-at 1691251929242
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -169,9 +169,9 @@
 :point [1339.9184350585936 976.438358764648]
 :parentId "64ce6f8f-f538-4bff-8609-1536aed6e7af"
 :collapsedHeight 0
-:nonce 1691251463194}}
-:block/updated-at 1691251749503} 
-{:block/created-at 1691251749504
+:nonce 1691251463196}}
+:block/updated-at 1691251929242} 
+{:block/created-at 1691251929242
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -196,9 +196,9 @@
 :point [1364.9184350585933 793.9384350585933]
 :parentId "64ce6f8f-f538-4bff-8609-1536aed6e7af"
 :collapsedHeight 0
-:nonce 1691251474397}}
-:block/updated-at 1691251749504} 
-{:block/created-at 1691251749504
+:nonce 1691251474399}}
+:block/updated-at 1691251929242} 
+{:block/created-at 1691251929242
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -223,9 +223,9 @@
 :point [1366.5851525878902 598.9384350585934]
 :parentId "64ce6f8f-f538-4bff-8609-1536aed6e7af"
 :collapsedHeight 0
-:nonce 1691251481489}}
-:block/updated-at 1691251749504} 
-{:block/created-at 1691251749504
+:nonce 1691251481491}}
+:block/updated-at 1691251929242} 
+{:block/created-at 1691251929242
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -250,9 +250,9 @@
 :point [1687.4182824707025 1148.9382824707025]
 :parentId "64ce6f8f-f538-4bff-8609-1536aed6e7af"
 :collapsedHeight 0
-:nonce 1691251493205}}
-:block/updated-at 1691251749504} 
-{:block/created-at 1691251749504
+:nonce 1691251493207}}
+:block/updated-at 1691251929242} 
+{:block/created-at 1691251929242
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -275,11 +275,11 @@
 :opacity 1
 :id "030e74c0-33aa-11ee-95ee-97bb563d1848"
 :noFill false
-:point [125.85709922790517 488.83054382324167]
+:point [174.81544845581044 488.83054382324167]
 :parentId "64ce6f8f-f538-4bff-8609-1536aed6e7af"
 :collapsedHeight 92.99994349479672
-:nonce 1691251578698}}
-:block/updated-at 1691251749504} 
+:nonce 1691251578816}}
+:block/updated-at 1691251929242} 
 {:block/content "央行的欠条"
 :block/format :markdown
 :block/left 
@@ -287,7 +287,7 @@
 :block/parent 
 {:block/uuid #uuid "64ce6f8f-f538-4bff-8609-1536aed6e7af"}
 :block/uuid #uuid "64ce73b4-fd70-48ff-b824-509bf7645bdb"} 
-{:block/created-at 1691251749504
+{:block/created-at 1691251929242
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -310,12 +310,12 @@
 :opacity 1
 :id "1e6e5c30-33aa-11ee-95ee-97bb563d1848"
 :noFill false
-:point [162.31544845581038 930.4971469116203]
+:point [174.81544845581044 932.5804484558098]
 :parentId "64ce6f8f-f538-4bff-8609-1536aed6e7af"
 :collapsedHeight 0
-:nonce 1691251624613}}
-:block/updated-at 1691251749504} 
-{:block/created-at 1691251749504
+:nonce 1691251624671}}
+:block/updated-at 1691251929242} 
+{:block/created-at 1691251929242
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -332,27 +332,27 @@
 :id "41f22832-33aa-11ee-95ee-97bb563d1848"
 :fontWeight 400
 :noFill true
-:point [219.86 518.3]
+:point [268.82 518.39]
 :fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [0 0.39]
+:point [0 0.29]
 :bindingId "41f22830-33aa-11ee-95ee-97bb563d1848"}
 :end 
 {:id "end"
 :canBind true
-:point [139.64 0]
+:point [90.68 0]
 :bindingId "41f22831-33aa-11ee-95ee-97bb563d1848"}}
 :decorations 
 {:start nil
 :end nil}
 :parentId "64ce6f8f-f538-4bff-8609-1536aed6e7af"
-:nonce 1691251683934
+:nonce 1691251683938
 :italic false}}
-:block/updated-at 1691251749504} 
-{:block/created-at 1691251749504
+:block/updated-at 1691251929242} 
+{:block/created-at 1691251929242
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -369,26 +369,26 @@
 :id "46b94d32-33aa-11ee-95ee-97bb563d1848"
 :fontWeight 400
 :noFill true
-:point [324.13 961.14]
+:point [336.63 962.7]
 :fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [0 0.03]
+:point [0 0.14]
 :bindingId "46b94d30-33aa-11ee-95ee-97bb563d1848"}
 :end 
 {:id "end"
 :canBind true
-:point [35.37 0]
+:point [22.87 0]
 :bindingId "4a1a0461-33aa-11ee-95ee-97bb563d1848"}}
 :decorations 
 {:start nil
 :end nil}
 :parentId "64ce6f8f-f538-4bff-8609-1536aed6e7af"
-:nonce 1691251691929
+:nonce 1691251691931
 :italic false}}
-:block/updated-at 1691251749504})
+:block/updated-at 1691251929242})
 :pages (
 {:block/uuid #uuid "64ce6f8f-f538-4bff-8609-1536aed6e7af"
 :block/properties 
@@ -440,7 +440,7 @@
 :nonce 1
 :assets []
 :shapes-index ("5e590a40-33a8-11ee-95ee-97bb563d1848" "e1d68a00-33a8-11ee-95ee-97bb563d1848" "80681b20-33a9-11ee-95ee-97bb563d1848" "8b0c1ae0-33a9-11ee-95ee-97bb563d1848" "9197ac30-33a9-11ee-95ee-97bb563d1848" "be616e90-33a9-11ee-95ee-97bb563d1848" "c50a9a00-33a9-11ee-95ee-97bb563d1848" "c9427750-33a9-11ee-95ee-97bb563d1848" "d03b7070-33a9-11ee-95ee-97bb563d1848" "030e74c0-33aa-11ee-95ee-97bb563d1848" "1e6e5c30-33aa-11ee-95ee-97bb563d1848" "41f22832-33aa-11ee-95ee-97bb563d1848" "46b94d32-33aa-11ee-95ee-97bb563d1848")}}
-:block/updated-at 1691251749503
+:block/updated-at 1691251929242
 :block/created-at 1691250575519
 :block/type "whiteboard"
 :block/name "宏观"
