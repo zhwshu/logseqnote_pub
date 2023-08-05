@@ -1,0 +1,75 @@
+{:blocks (
+{:block/created-at 1691251142803
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "64ce6dd6-7669-46b4-9e9c-b5dec18ebf7c"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [612.0001220703125 956]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "5e590a40-33a8-11ee-95ee-97bb563d1848"
+:noFill false
+:isLocked false
+:point [363.5 251.5]
+:parentId "64ce6f8f-f538-4bff-8609-1536aed6e7af"
+:collapsedHeight 0
+:nonce 1691250872764}}
+:block/updated-at 1691251142803} 
+{:block/created-at 1691251142804
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:rotation 0
+:collapsed true
+:borderRadius 8
+:index 1
+:scale [1 1]
+:pageId "基础货币"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [90 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "e1d68a00-33a8-11ee-95ee-97bb563d1848"
+:noFill false
+:point [992.4117175292969 794.9117175292969]
+:parentId "64ce6f8f-f538-4bff-8609-1536aed6e7af"
+:collapsedHeight 93.00008296966553
+:nonce 1691251093373}}
+:block/updated-at 1691251142804})
+:pages (
+{:block/uuid #uuid "64ce6f8f-f538-4bff-8609-1536aed6e7af"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "64ce6f8f-f538-4bff-8609-1536aed6e7af"
+:name "宏观"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("5e590a40-33a8-11ee-95ee-97bb563d1848" "e1d68a00-33a8-11ee-95ee-97bb563d1848")}}
+:block/updated-at 1691251142803
+:block/created-at 1691250575519
+:block/type "whiteboard"
+:block/name "宏观"
+:block/original-name "宏观"})}
