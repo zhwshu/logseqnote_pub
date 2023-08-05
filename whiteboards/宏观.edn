@@ -1,5 +1,5 @@
 {:blocks (
-{:block/created-at 1691251142803
+{:block/created-at 1691251401359
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -27,8 +27,8 @@
 :parentId "64ce6f8f-f538-4bff-8609-1536aed6e7af"
 :collapsedHeight 0
 :nonce 1691250872764}}
-:block/updated-at 1691251142803} 
-{:block/created-at 1691251142804
+:block/updated-at 1691251401359} 
+{:block/created-at 1691251401359
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -55,7 +55,95 @@
 :parentId "64ce6f8f-f538-4bff-8609-1536aed6e7af"
 :collapsedHeight 93.00008296966553
 :nonce 1691251093373}}
-:block/updated-at 1691251142804})
+:block/updated-at 1691251401359} 
+{:block/content "实体经济"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64ce6f8f-f538-4bff-8609-1536aed6e7af"}
+:block/parent 
+{:block/uuid #uuid "64ce6f8f-f538-4bff-8609-1536aed6e7af"}
+:block/uuid #uuid "64ce721a-53bd-45cb-8283-673048fc974f"} 
+{:block/created-at 1691251401359
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 2
+:scale [1 1]
+:pageId "实体经济"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 63.99999999999999]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "80681b20-33a9-11ee-95ee-97bb563d1848"
+:noFill false
+:point [2151.0966992187496 1326.7267175292964]
+:parentId "64ce6f8f-f538-4bff-8609-1536aed6e7af"
+:collapsedHeight 63.99999999999999
+:nonce 1691251359412}}
+:block/updated-at 1691251401359} 
+{:block/created-at 1691251401359
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 3
+:scale [1 1]
+:pageId "政府"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 63.99999999999999]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8b0c1ae0-33a9-11ee-95ee-97bb563d1848"
+:noFill false
+:point [2204.2633984374997 805.5600579833983]
+:parentId "64ce6f8f-f538-4bff-8609-1536aed6e7af"
+:collapsedHeight 0
+:nonce 1691251377070}}
+:block/updated-at 1691251401359} 
+{:block/created-at 1691251401359
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 4
+:scale [1 1]
+:pageId "资本市场"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 63.99999141693114]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "9197ac30-33a9-11ee-95ee-97bb563d1848"
+:noFill false
+:point [2086.584999999999 325.60503814697245]
+:parentId "64ce6f8f-f538-4bff-8609-1536aed6e7af"
+:collapsedHeight 0
+:nonce 1691251388310}}
+:block/updated-at 1691251401359})
 :pages (
 {:block/uuid #uuid "64ce6f8f-f538-4bff-8609-1536aed6e7af"
 :block/properties 
@@ -67,8 +155,8 @@
 {}
 :nonce 1
 :assets []
-:shapes-index ("5e590a40-33a8-11ee-95ee-97bb563d1848" "e1d68a00-33a8-11ee-95ee-97bb563d1848")}}
-:block/updated-at 1691251142803
+:shapes-index ("5e590a40-33a8-11ee-95ee-97bb563d1848" "e1d68a00-33a8-11ee-95ee-97bb563d1848" "80681b20-33a9-11ee-95ee-97bb563d1848" "8b0c1ae0-33a9-11ee-95ee-97bb563d1848" "9197ac30-33a9-11ee-95ee-97bb563d1848")}}
+:block/updated-at 1691251401358
 :block/created-at 1691250575519
 :block/type "whiteboard"
 :block/name "宏观"
