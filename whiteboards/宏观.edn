@@ -1,5 +1,5 @@
 {:blocks (
-{:block/created-at 1691592448093
+{:block/created-at 1691592742878
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -27,8 +27,8 @@
 :parentId "64ce6f8f-f538-4bff-8609-1536aed6e7af"
 :collapsedHeight 0
 :nonce 1691250873189}}
-:block/updated-at 1691592448093} 
-{:block/created-at 1691592448093
+:block/updated-at 1691592742878} 
+{:block/created-at 1691592742878
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -55,7 +55,7 @@
 :parentId "64ce6f8f-f538-4bff-8609-1536aed6e7af"
 :collapsedHeight 93.00008296966553
 :nonce 1691251094115}}
-:block/updated-at 1691592448093} 
+:block/updated-at 1691592742878} 
 {:block/content "实体经济"
 :block/format :markdown
 :block/left 
@@ -63,7 +63,7 @@
 :block/parent 
 {:block/uuid #uuid "64ce6f8f-f538-4bff-8609-1536aed6e7af"}
 :block/uuid #uuid "64ce721a-53bd-45cb-8283-673048fc974f"} 
-{:block/created-at 1691592448094
+{:block/created-at 1691592742878
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -89,8 +89,8 @@
 :parentId "64ce6f8f-f538-4bff-8609-1536aed6e7af"
 :collapsedHeight 63.99999999999999
 :nonce 1691251360388}}
-:block/updated-at 1691592448094} 
-{:block/created-at 1691592448093
+:block/updated-at 1691592742878} 
+{:block/created-at 1691592742878
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -116,8 +116,8 @@
 :parentId "64ce6f8f-f538-4bff-8609-1536aed6e7af"
 :collapsedHeight 0
 :nonce 1691251377096}}
-:block/updated-at 1691592448093} 
-{:block/created-at 1691592448094
+:block/updated-at 1691592742878} 
+{:block/created-at 1691592742878
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -143,8 +143,8 @@
 :parentId "64ce6f8f-f538-4bff-8609-1536aed6e7af"
 :collapsedHeight 0
 :nonce 1691251388590}}
-:block/updated-at 1691592448094} 
-{:block/created-at 1691592448094
+:block/updated-at 1691592742878} 
+{:block/created-at 1691592742878
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -170,8 +170,8 @@
 :parentId "64ce6f8f-f538-4bff-8609-1536aed6e7af"
 :collapsedHeight 0
 :nonce 1691251463915}}
-:block/updated-at 1691592448094} 
-{:block/created-at 1691592448094
+:block/updated-at 1691592742878} 
+{:block/created-at 1691592742878
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -197,8 +197,8 @@
 :parentId "64ce6f8f-f538-4bff-8609-1536aed6e7af"
 :collapsedHeight 0
 :nonce 1691251474517}}
-:block/updated-at 1691592448094} 
-{:block/created-at 1691592448093
+:block/updated-at 1691592742878} 
+{:block/created-at 1691592742878
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -224,8 +224,8 @@
 :parentId "64ce6f8f-f538-4bff-8609-1536aed6e7af"
 :collapsedHeight 0
 :nonce 1691251481887}}
-:block/updated-at 1691592448093} 
-{:block/created-at 1691592448094
+:block/updated-at 1691592742878} 
+{:block/created-at 1691592742878
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -252,8 +252,8 @@
 :parentId "64ce6f8f-f538-4bff-8609-1536aed6e7af"
 :collapsedHeight 117.00004577636714
 :nonce 1691251493395}}
-:block/updated-at 1691592448094} 
-{:block/created-at 1691592448094
+:block/updated-at 1691592742878} 
+{:block/created-at 1691592742878
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -280,7 +280,7 @@
 :parentId "64ce6f8f-f538-4bff-8609-1536aed6e7af"
 :collapsedHeight 92.99994349479672
 :nonce 1691251578983}}
-:block/updated-at 1691592448094} 
+:block/updated-at 1691592742878} 
 {:block/content "央行的欠条"
 :block/format :markdown
 :block/left 
@@ -288,7 +288,7 @@
 :block/parent 
 {:block/uuid #uuid "64ce6f8f-f538-4bff-8609-1536aed6e7af"}
 :block/uuid #uuid "64ce73b4-fd70-48ff-b824-509bf7645bdb"} 
-{:block/created-at 1691592448093
+{:block/created-at 1691592742878
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -315,8 +315,8 @@
 :parentId "64ce6f8f-f538-4bff-8609-1536aed6e7af"
 :collapsedHeight 0
 :nonce 1691251624838}}
-:block/updated-at 1691592448093} 
-{:block/created-at 1691592448094
+:block/updated-at 1691592742878} 
+{:block/created-at 1691592742878
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -352,8 +352,8 @@
 :parentId "64ce6f8f-f538-4bff-8609-1536aed6e7af"
 :nonce 1691251684105
 :italic false}}
-:block/updated-at 1691592448094} 
-{:block/created-at 1691592448093
+:block/updated-at 1691592742878} 
+{:block/created-at 1691592742878
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -389,8 +389,8 @@
 :parentId "64ce6f8f-f538-4bff-8609-1536aed6e7af"
 :nonce 1691251692098
 :italic false}}
-:block/updated-at 1691592448093} 
-{:block/created-at 1691592448093
+:block/updated-at 1691592742878} 
+{:block/created-at 1691592742878
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -417,8 +417,8 @@
 :parentId "64ce6f8f-f538-4bff-8609-1536aed6e7af"
 :collapsedHeight 0
 :nonce 1691252603396}}
-:block/updated-at 1691592448093} 
-{:block/created-at 1691592448094
+:block/updated-at 1691592742878} 
+{:block/created-at 1691592742878
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -454,8 +454,8 @@
 :parentId "64ce6f8f-f538-4bff-8609-1536aed6e7af"
 :nonce 1691252653994
 :italic false}}
-:block/updated-at 1691592448094} 
-{:block/created-at 1691592448093
+:block/updated-at 1691592742878} 
+{:block/created-at 1691592742878
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -482,8 +482,8 @@
 :parentId "64ce6f8f-f538-4bff-8609-1536aed6e7af"
 :collapsedHeight 112.99999999999997
 :nonce 1691252734086}}
-:block/updated-at 1691592448093} 
-{:block/created-at 1691592448093
+:block/updated-at 1691592742878} 
+{:block/created-at 1691592742878
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -519,8 +519,8 @@
 :parentId "64ce6f8f-f538-4bff-8609-1536aed6e7af"
 :nonce 1691252909919
 :italic false}}
-:block/updated-at 1691592448093} 
-{:block/created-at 1691592448093
+:block/updated-at 1691592742878} 
+{:block/created-at 1691592742878
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -547,8 +547,8 @@
 :parentId "64ce6f8f-f538-4bff-8609-1536aed6e7af"
 :collapsedHeight 90.39999999999999
 :nonce 1691254550468}}
-:block/updated-at 1691592448093} 
-{:block/created-at 1691592448094
+:block/updated-at 1691592742878} 
+{:block/created-at 1691592742878
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -575,8 +575,8 @@
 :parentId "64ce6f8f-f538-4bff-8609-1536aed6e7af"
 :collapsedHeight 93
 :nonce 1691254651618}}
-:block/updated-at 1691592448094} 
-{:block/created-at 1691592448093
+:block/updated-at 1691592742878} 
+{:block/created-at 1691592742878
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -611,7 +611,7 @@
 :parentId "64ce6f8f-f538-4bff-8609-1536aed6e7af"
 :nonce 1691254810738
 :italic false}}
-:block/updated-at 1691592448093} 
+:block/updated-at 1691592742878} 
 {:block/content "央行"
 :block/format :markdown
 :block/left 
@@ -621,7 +621,7 @@
 :block/properties 
 {}
 :block/uuid #uuid "64d37cc3-3f47-458d-b198-833e3ddcc300"} 
-{:block/created-at 1691592448093
+{:block/created-at 1691592742878
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -649,7 +649,7 @@
 :parentId "64ce6f8f-f538-4bff-8609-1536aed6e7af"
 :collapsedHeight 0
 :nonce 1691581636388}}
-:block/updated-at 1691592448093} 
+:block/updated-at 1691592742878} 
 {:block/content "货币政策"
 :block/format :markdown
 :block/left 
@@ -667,7 +667,7 @@
 :block/properties 
 {:id "64d37d0a-9e51-49bc-b276-78286a6654e8"}
 :block/uuid #uuid "64d37d0a-9e51-49bc-b276-78286a6654e8"} 
-{:block/created-at 1691592448094
+{:block/created-at 1691592742878
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -695,7 +695,7 @@
 :parentId "64ce6f8f-f538-4bff-8609-1536aed6e7af"
 :collapsedHeight 0
 :nonce 1691581708530}}
-:block/updated-at 1691592448094} 
+:block/updated-at 1691592742878} 
 {:block/content ""
 :block/format :markdown
 :block/left 
@@ -705,7 +705,7 @@
 :block/properties 
 {}
 :block/uuid #uuid "64d37d21-fb4e-4d32-aa06-1eec30309452"} 
-{:block/created-at 1691592448093
+{:block/created-at 1691592742878
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -739,8 +739,8 @@
 :parentId "64ce6f8f-f538-4bff-8609-1536aed6e7af"
 :nonce 1691581803290
 :italic false}}
-:block/updated-at 1691592448093} 
-{:block/created-at 1691592448094
+:block/updated-at 1691592742878} 
+{:block/created-at 1691592742878
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -776,7 +776,7 @@
 :parentId "64ce6f8f-f538-4bff-8609-1536aed6e7af"
 :nonce 1691583556282
 :italic false}}
-:block/updated-at 1691592448094} 
+:block/updated-at 1691592742878} 
 {:block/content "M0+库存现金"
 :block/format :markdown
 :block/left 
@@ -784,7 +784,7 @@
 :block/parent 
 {:block/uuid #uuid "64ce6f8f-f538-4bff-8609-1536aed6e7af"}
 :block/uuid #uuid "64d3a5b5-cf61-4235-852c-8aa19ccabf4f"} 
-{:block/created-at 1691592448094
+{:block/created-at 1691592742878
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -811,7 +811,7 @@
 :parentId "64ce6f8f-f538-4bff-8609-1536aed6e7af"
 :collapsedHeight 0
 :nonce 1691592110496}}
-:block/updated-at 1691592448094} 
+:block/updated-at 1691592742878} 
 {:block/content "法定准备金+超额准备金"
 :block/format :markdown
 :block/left 
@@ -819,7 +819,7 @@
 :block/parent 
 {:block/uuid #uuid "64ce6f8f-f538-4bff-8609-1536aed6e7af"}
 :block/uuid #uuid "64d3a60e-0c44-43fd-97d1-51c47b9708a6"} 
-{:block/created-at 1691592448093
+{:block/created-at 1691592742878
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -846,7 +846,7 @@
 :parentId "64ce6f8f-f538-4bff-8609-1536aed6e7af"
 :collapsedHeight 0
 :nonce 1691592195204}}
-:block/updated-at 1691592448093} 
+:block/updated-at 1691592742878} 
 {:block/content "客户备付金"
 :block/format :markdown
 :block/left 
@@ -854,7 +854,7 @@
 :block/parent 
 {:block/uuid #uuid "64ce6f8f-f538-4bff-8609-1536aed6e7af"}
 :block/uuid #uuid "64d3a636-eb48-49c9-a8d1-2419fe07fa2f"} 
-{:block/created-at 1691592448094
+{:block/created-at 1691592742878
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -881,7 +881,7 @@
 :parentId "64ce6f8f-f538-4bff-8609-1536aed6e7af"
 :collapsedHeight 0
 :nonce 1691592238056}}
-:block/updated-at 1691592448094} 
+:block/updated-at 1691592742878} 
 {:block/content "央行票据"
 :block/format :markdown
 :block/left 
@@ -889,7 +889,7 @@
 :block/parent 
 {:block/uuid #uuid "64ce6f8f-f538-4bff-8609-1536aed6e7af"}
 :block/uuid #uuid "64d3a65a-fc95-4ccd-bda6-5598da7c3cb0"} 
-{:block/created-at 1691592448093
+{:block/created-at 1691592742878
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -916,15 +916,17 @@
 :parentId "64ce6f8f-f538-4bff-8609-1536aed6e7af"
 :collapsedHeight 0
 :nonce 1691592277583}}
-:block/updated-at 1691592448093} 
-{:block/content "财政存款"
+:block/updated-at 1691592742878} 
+{:block/content "中央国库+地方国库"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "64d3a65a-fc95-4ccd-bda6-5598da7c3cb0"}
 :block/parent 
 {:block/uuid #uuid "64ce6f8f-f538-4bff-8609-1536aed6e7af"}
+:block/properties 
+{}
 :block/uuid #uuid "64d3a67b-def5-41a2-8337-f6da09f43828"} 
-{:block/created-at 1691592448093
+{:block/created-at 1691592742878
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -941,7 +943,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [71.333251953125 32.79996871948242]
+:size [131.333251953125 32.800010681152344]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -950,8 +952,8 @@
 :point [757.0082098147972 1019.7497750430562]
 :parentId "64ce6f8f-f538-4bff-8609-1536aed6e7af"
 :collapsedHeight 0
-:nonce 1691592311140}}
-:block/updated-at 1691592448093} 
+:nonce 1691592311258}}
+:block/updated-at 1691592742878} 
 {:block/content "国外借款"
 :block/format :markdown
 :block/left 
@@ -959,7 +961,7 @@
 :block/parent 
 {:block/uuid #uuid "64ce6f8f-f538-4bff-8609-1536aed6e7af"}
 :block/uuid #uuid "64d3a6a9-7db6-4ab2-a8e2-185960d873de"} 
-{:block/created-at 1691592448093
+{:block/created-at 1691592742878
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -986,8 +988,8 @@
 :parentId "64ce6f8f-f538-4bff-8609-1536aed6e7af"
 :collapsedHeight 0
 :nonce 1691592356425}}
-:block/updated-at 1691592448093} 
-{:block/content "正回购、外币缴存的人民币准备金、经营负债等"
+:block/updated-at 1691592742878} 
+{:block/content "正回购、外币缴存人民币准备金、经营负债等"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "64d3a6a9-7db6-4ab2-a8e2-185960d873de"}
@@ -996,7 +998,7 @@
 :block/properties 
 {}
 :block/uuid #uuid "64d3a6cb-5001-4b74-ab9a-b4b929510a1f"} 
-{:block/created-at 1691592448094
+{:block/created-at 1691592742878
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1013,7 +1015,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [288.0000000000001 32.79996871948242]
+:size [276.6667480468751 32.79996871948242]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -1022,8 +1024,8 @@
 :point [755.6748968265159 1126.4164010196187]
 :parentId "64ce6f8f-f538-4bff-8609-1536aed6e7af"
 :collapsedHeight 0
-:nonce 1691592378141}}
-:block/updated-at 1691592448094} 
+:nonce 1691592378192}}
+:block/updated-at 1691592742878} 
 {:block/content "央行的资本金"
 :block/format :markdown
 :block/left 
@@ -1031,7 +1033,7 @@
 :block/parent 
 {:block/uuid #uuid "64ce6f8f-f538-4bff-8609-1536aed6e7af"}
 :block/uuid #uuid "64d3a6f8-8a07-43a2-89bb-406bfff93bf4"} 
-{:block/created-at 1691592448093
+{:block/created-at 1691592742878
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1058,7 +1060,7 @@
 :parentId "64ce6f8f-f538-4bff-8609-1536aed6e7af"
 :collapsedHeight 0
 :nonce 1691592434657}}
-:block/updated-at 1691592448093})
+:block/updated-at 1691592742878})
 :pages (
 {:block/uuid #uuid "64ce6f8f-f538-4bff-8609-1536aed6e7af"
 :block/properties 
@@ -1278,7 +1280,7 @@
 :nonce 1
 :assets []
 :shapes-index ("a70bc250-36aa-11ee-b9e2-1937f0d8635a" "80681b20-33a9-11ee-95ee-97bb563d1848" "e1d68a00-33a8-11ee-95ee-97bb563d1848" "5e590a40-33a8-11ee-95ee-97bb563d1848" "8b0c1ae0-33a9-11ee-95ee-97bb563d1848" "9197ac30-33a9-11ee-95ee-97bb563d1848" "be616e90-33a9-11ee-95ee-97bb563d1848" "c50a9a00-33a9-11ee-95ee-97bb563d1848" "c9427750-33a9-11ee-95ee-97bb563d1848" "d03b7070-33a9-11ee-95ee-97bb563d1848" "659996e0-33ac-11ee-95ee-97bb563d1848" "030e74c0-33aa-11ee-95ee-97bb563d1848" "1e6e5c30-33aa-11ee-95ee-97bb563d1848" "41f22832-33aa-11ee-95ee-97bb563d1848" "46b94d32-33aa-11ee-95ee-97bb563d1848" "b38c6c60-33ac-11ee-95ee-97bb563d1848" "ee4f2910-33b0-11ee-95ee-97bb563d1848" "2a780240-33b1-11ee-95ee-97bb563d1848" "898aff82-33b1-11ee-95ee-97bb563d1848" "7cb5bf10-36aa-11ee-b9e2-1937f0d8635a" "e06b1b42-36aa-11ee-b9e2-1937f0d8635a" "83949b92-33ac-11ee-95ee-97bb563d1848" "1c25c462-33ad-11ee-95ee-97bb563d1848" "f5369af2-36ae-11ee-b9e2-1937f0d8635a" "dfe07a90-36c2-11ee-b393-93bd162e62bc" "126a67f0-36c3-11ee-b393-93bd162e62bc" "2bfb5bc0-36c3-11ee-b393-93bd162e62bc" "437667e0-36c3-11ee-b393-93bd162e62bc" "578cec40-36c3-11ee-b393-93bd162e62bc" "7285fb90-36c3-11ee-b393-93bd162e62bc" "7f7a2ce0-36c3-11ee-b393-93bd162e62bc" "a12abf80-36c3-11ee-b393-93bd162e62bc")}}
-:block/updated-at 1691592448093
+:block/updated-at 1691592742877
 :block/created-at 1691250575519
 :block/type "whiteboard"
 :block/name "宏观"
