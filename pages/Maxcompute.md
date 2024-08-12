@@ -1,5 +1,6 @@
 - MaxCompute是适用于数据分析场景的企业级[SaaS](https://www.aliyun.com/getting-started/what-is/what-is-saas)（Software as a Service）模式云数据仓库，以Serverless架构提供快速、全托管的在线数据仓库服务，消除了传统数据平台在资源扩展性和弹性方面的限制，最小化用户运维投入，使您可以经济并高效地分析处理海量数据
 - 概述
+	-
 	- [[限制项]]
 	- [[保留字和关键字]]
 - DDL
